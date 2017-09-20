@@ -16,3 +16,33 @@ We expect candidates to spend 1-3 hours on this exercise.  By the way, you may u
 ## Submission
 
 Simply create a GitHub repo and name it something fun (please don't give it the same name as this repo).  Then email us a link!
+
+## Benchmarks for Sync
+
+100 sources
+```
+***********************************
+Logs printed:		 24096
+Time taken (s):		 0.84
+Logs/s:			 28685.714285714286
+***********************************
+
+```
+
+1,000 sources
+```
+***********************************
+Logs printed:		 239084
+Time taken (s):		 8.284
+Logs/s:			 28860.936745533556
+***********************************
+```
+
+1,000,000 sources
+```
+***********************************
+Logs printed:		 240511580
+Time taken (s):		 22085.259
+Logs/s:			 10890.140794817033
+***********************************
+```
